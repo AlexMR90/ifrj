@@ -1,0 +1,175 @@
+/* *{border: 3px solid black;} */
+
+.banner{
+    background-image: url('img/banner-topo.jpg') ;
+    background-repeat:  no-repeat ;
+    background-size: cover;
+    background-position: center;
+    background-color: #1f26875e;
+    width: 100%;
+    height: auto;
+}
+.logo{
+    width: 250px;
+    color: #3c184e;
+    margin: 50px 0px 5px 50px;
+    font-size:35px;
+}
+#logo{
+    width: 30px;
+    margin-right: 0px;
+}
+.logo2{
+    font-size:14px;
+    text-align: center;
+    margin: -30px 0px 0px 38px;
+}
+.segunda-secao{
+    width: 1024px;
+    border-radius: 10px;
+    padding: 40px 40px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    background-color: #ffffffc4;
+    box-shadow:  0px  8px 32px #1f26875e;
+}
+.segunda-secao h1{
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800px;
+    margin: 0px 0px 40px 0px;
+}
+#fundoRoxo{
+    width: 200px;
+    padding: 10px 25px 10px 25px;
+    margin: 0px auto 0px auto;
+    border-radius: 10px;
+    background-color:#3c184e;
+    font-size:20px;
+    text-align: center;
+}
+.segunda-secao a{
+    text-decoration: none;
+    color: #fff;
+}
+.segunda-secao img{
+    width:20px;
+}
+.secao-servicos{
+    width: 87%;
+    padding: 120px 80px;
+}
+.secao-servicos h2{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin:0px 0px 45px 0px;
+
+}
+.lista{
+    width:800px;
+    margin-top:0px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-left:50px;
+    color:#3c184e;
+
+}
+li{
+    font-size:20px;
+    margin-bottom:20px;
+    margin-top:0px;
+    margin-left:30px;
+    margin-right:0px;
+}
+li span{
+    font-weight: 700px;
+    font-style: italic;
+}
+.imagens{
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+    
+}
+.faixa{
+    padding: 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+.faixa p{
+    width:800px;
+    margin-top:0px;
+    margin-bottom:50px;
+    margin-right:auto;    
+    margin-left:auto;
+    font-size:40px;
+    color:#fff;
+    text-align: center;
+
+}
+.faixa span{
+    font-weight: 700px;
+    font-style: italic;
+}
+.faixa a{
+    text-decoration: none;
+    margin-right:20px;
+    margin-left:20px;
+
+}
+.faixa img{
+    width:50px;
+    height: 50px;
+
+}
+.marcas{
+    width:87%;
+    padding: 120px 80px;
+}
+.marcas h2{
+    font-size:36px;
+    text-align:center;
+    margin: 0 0 45px 0px;
+}
+.marcas div{
+    width:800px;
+    margin: 0px auto;
+
+}
+.marcas img{
+    width:148px;
+    height:148px;
+    margin: 0px 15px;
+}
+.onde-estamos{
+    width:87%;
+    padding: 120px 80px;
+
+}
+.onde-estamos h2{
+    font-size:36px;
+    color:#3c184e;
+    text-align:center;
+    margin: 0px 0px 45px 0px;
+}
+.onde-estamos p{
+    font-size:20px;
+    color: #3c184e;
+    text-align:center;
+    margin: 0px 0px 45px 0px;
+}
+.onde-estamos iframe{
+    width:800px;
+    height:450px;
+    margin-left: 15%;
+
+}
+.rodape{
+    color: #fff;
+    text-align: center;
+    background-color: #3c184e;
+    font-size: 12px;
+}
