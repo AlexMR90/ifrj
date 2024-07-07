@@ -1,2 +1,2 @@
 # ifrj
-workshop de GitHub
+Projetos desenvolvidos no IFRJ
